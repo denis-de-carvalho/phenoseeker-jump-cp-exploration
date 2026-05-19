@@ -11,13 +11,13 @@ This repository contains a personal exploration of phenotypic compound profiling
 
 ## Status
 
-Work in progress - started May 2026. See `ROADMAP.md` for planned milestones.
+Work in progress - started May 2026. See `ROADMAP.md`.
 
 ## References
 
-- **Phenoseeker** — Sanchez et al. (2025). *Large Scale Compound Selection Guided by Cell Painting Reveals Activity Cliffs and Functional Relationships.* Communications Biology. [Paper](https://doi.org/10.1038/s42003-025-09500-y) · [Code](https://github.com/mxfly14/2025_sanchez_phenoseeker) · [Web tool](https://www.phenoseeker.bio.ens.psl.eu/)
-- **JUMP-CP** — Joint Undertaking for Morphological Profiling (Broad Institute + pharma partners).
-- **JUMP downloader** — Watkinson et al., ISBI 2024. [Code](https://github.com/gwatkinson/jump_download).
+- **Phenoseeker** : Sanchez et al. (2025). *Large Scale Compound Selection Guided by Cell Painting Reveals Activity Cliffs and Functional Relationships.* Communications Biology. [Paper](https://doi.org/10.1038/s42003-025-09500-y) · [Code](https://github.com/mxfly14/2025_sanchez_phenoseeker) · [Web tool](https://www.phenoseeker.bio.ens.psl.eu/)
+- **JUMP-CP** : Joint Undertaking for Morphological Profiling (Broad Institute + pharma partners).
+- **JUMP downloader** : Watkinson et al., ISBI 2024. [Code](https://github.com/gwatkinson/jump_download).
 
 ## Author
 

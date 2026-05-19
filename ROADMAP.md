@@ -1,10 +1,10 @@
 # Roadmap
 
 
-- [ ] Read Phenoseeker README + scripts overview
-- [ ] Write `notes/phenoseeker_overview.md`
-- [ ] First Colab notebook: verify environment
-- [ ] Explore JUMP-CP metadata in Colab
+- [x] Read Phenoseeker README + scripts overview
+- [x] Write `notes/phenoseeker_overview.md`
+- [x] First Colab notebook: verify environment
+- [x] Explore JUMP-CP metadata in Colab
 - [ ] Download a minimal subset (one source, one batch)
 - [ ] Visualize sample Cell Painting images
 - [ ] Run pre-trained DINOv2 inference on subset (Colab GPU)
